@@ -1,1 +1,6 @@
+# Ignore folders
+.cache/
+
+# Ignore files
+compile_commands.json
 a.out
